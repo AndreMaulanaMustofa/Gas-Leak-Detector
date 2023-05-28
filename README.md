@@ -3,5 +3,5 @@ Tugas Akhir IOT
 
 Anggota:
 - Wahyu Fajar Robyansyah
-- ANdre Maulana Mustofa
+- Andre Maulana Mustofa
 - Muhammad Faiq Prasetya
